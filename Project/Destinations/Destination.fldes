@@ -12,4 +12,5 @@
   ClickUrl="https://d3v-mctstest1.zendesk.com"
   DefaultSection="1500000575862"
   PermissionGroup="2708754"
-  DefaultCategory="1500000330502"></CatapultDestination>
+  DefaultCategory="1500000330502"
+  PublishAfterUpload="true"></CatapultDestination>
