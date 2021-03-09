@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="d3v-mctstest1.zendesk.com"
+  User="MyAccountId"
+  Password=""
+  Directory="oauth/authorizations/new"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="zendesk"
+  ClickUrl="https://d3v-mctstest1.zendesk.com"
+  DefaultSection="1500000575862"
+  PermissionGroup="2708754"
+  DefaultCategory="1500000330502"></CatapultDestination>
