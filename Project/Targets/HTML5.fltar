@@ -6,7 +6,8 @@
   Destinations=""
   ShowMadCapBacklink="true"
   GlossaryTermConversion="marked"
-  Skin="(none)">
+  Skin="(none)"
+  OutputFolder="C:\Users\wlester\Documents\Bugtesting\ZDPublish">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
